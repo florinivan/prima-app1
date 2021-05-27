@@ -13,7 +13,7 @@ function Index() {
   };
   const [valore, setValore] = useState(0);
   const cambiaValore = () => {
-    //setValore((oldValore) => oldValore + 1);
+    setValore((oldValore) => oldValore + 1);
   };
   const { data } = useFetch(url);
   useMemo(() => setValore(cercaMaggiore(data)), [data]);

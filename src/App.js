@@ -5,7 +5,10 @@ import "./App.css";
 //import IndexComponent from "./hooks/useState/userstate-array";
 //import IndexComponent from "./hooks/useEfect/useEfect-base";
 //import IndexComponent from "./hooks/useEfect/useEfect-cleanup";
-import IndexComponent from "./hooks/useMemo/index";
+//import IndexComponent from "./hooks/useMemo";
+//import IndexComponent from "./hooks/useRef";
+//import IndexComponent from "./hooks/useReducer";
+import IndexComponent from "./hooks/rederConditional";
 //import ComponentCard from "./componets/ComponentCard";
 
 function App() {
