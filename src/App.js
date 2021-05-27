@@ -8,7 +8,8 @@ import "./App.css";
 //import IndexComponent from "./hooks/useMemo";
 //import IndexComponent from "./hooks/useRef";
 //import IndexComponent from "./hooks/useReducer";
-import IndexComponent from "./hooks/rederConditional";
+//import IndexComponent from "./hooks/rederConditional";
+import IndexComponent from "./hooks/useContext";
 //import ComponentCard from "./componets/ComponentCard";
 
 function App() {
