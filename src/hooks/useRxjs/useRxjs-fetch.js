@@ -1,7 +1,7 @@
 import React from "react";
 import { ajax } from "rxjs/ajax";
 import { map } from "rxjs/operators";
-import List from "../../components/List";
+import List from "./List";
 import { useObservable } from "./useObservable";
 
 const url = `https://randomuser.me/api/?results=5&seed=rx-react&nat=us&inc=name&noinfo`;

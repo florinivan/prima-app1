@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { of } from "rxjs";
-import List from "../../components/List";
+import List from "./List"
 
 const source = ["Adam", "Brian", "Christine"];
 const names$ = of(source);

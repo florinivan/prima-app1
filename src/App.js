@@ -10,7 +10,8 @@ import "./App.css";
 //import IndexComponent from "./hooks/useReducer";
 //import IndexComponent from "./hooks/rederConditional";
 //import IndexComponent from "./hooks/useContext";
-import IndexComponent from "./pages/index";
+//import IndexComponent from "./pages/index";
+import IndexComponent from "./hooks/useRxjs/useRxjs-fetch";
 //import ComponentCard from "./componets/ComponentCard";
 
 function App() {
